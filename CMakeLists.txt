@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(c_calculator
     LICENSE
     README.md
-        main.c)
+        src/main.c
+        include/calculator.h)
