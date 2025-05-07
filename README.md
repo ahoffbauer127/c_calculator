@@ -16,7 +16,6 @@ hard technical software engineering skills through this project and highlight my
 - Validates user input to prevent errors like division by zero.
 - Provides a simple command-line interface with a menu.
 
-
 ## Setup
 - Clone the repository: git clone 
 - Open in CLion and ensure CMake is configured.
